@@ -1,4 +1,4 @@
-package es.reposteria.documents;
+package es.reposteria.documents.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

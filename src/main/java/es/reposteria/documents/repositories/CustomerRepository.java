@@ -1,7 +1,8 @@
-package es.reposteria.documents;
+package es.reposteria.documents.repositories;
 
 import java.util.List;
 
+import es.reposteria.documents.entities.Customer;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 
